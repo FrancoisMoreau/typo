@@ -5,7 +5,7 @@ GitHub:
 https://github.com/FrancoisMoreau/typo
 
 Heroku:
-https://powerful-beyond-94658.herokuapp.com/admin
+https://powerful-beyond-94658.herokuapp.com/setup
 
 -----------------------------cucumber------------------------------
 ec2-user:~/environment/typo (master) $ bundle exec rake cucumber
